@@ -1,16 +1,14 @@
-### Hi there 👋
+# ```BK9```
 
-<!--
-**BK9-dev/BK9-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 💫 About Me:
+ 
+- My name is Siraj 
+- I am 2024 years old 
+- I am an engineering student
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+  <a href="https://whatsapp.com/channel/0029VaGPfAx17En4dklujt3n"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><img src="https://profile-counter.glitch.me/{BK9-dev}/count.svg" alt="BK9-dev :: Visitor's Count" /></p>
+
+
